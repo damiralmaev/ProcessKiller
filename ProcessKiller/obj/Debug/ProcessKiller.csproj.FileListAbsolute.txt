@@ -1,0 +1,6 @@
+C:\Users\Дамир Хакер\source\repos\ProcessKiller\ProcessKiller\bin\Debug\ProcessKiller.dll
+C:\Users\Дамир Хакер\source\repos\ProcessKiller\ProcessKiller\bin\Debug\ProcessKiller.pdb
+C:\Users\Дамир Хакер\source\repos\ProcessKiller\ProcessKiller\obj\Debug\ProcessKiller.csprojAssemblyReference.cache
+C:\Users\Дамир Хакер\source\repos\ProcessKiller\ProcessKiller\obj\Debug\ProcessKiller.csproj.CoreCompileInputs.cache
+C:\Users\Дамир Хакер\source\repos\ProcessKiller\ProcessKiller\obj\Debug\ProcessKiller.dll
+C:\Users\Дамир Хакер\source\repos\ProcessKiller\ProcessKiller\obj\Debug\ProcessKiller.pdb
